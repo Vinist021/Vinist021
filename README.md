@@ -1,14 +1,13 @@
-
 <div align="center">
 
-<picture>
-  <source srcset="https://github.com/user-attachments/assets/d1847793-76c3-4390-8ac4-d87b19226cc9" media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github.com/user-attachments/assets/143ad246-862f-4c8f-bbbb-af4661b17af5" media="(prefers-color-scheme: light)" />
-  <img src="https://github.com/user-attachments/assets/143ad246-862f-4c8f-bbbb-af4661b17af5" alt="Saudação" />
-</picture>
+  <picture>
+    <source srcset="https://github.com/user-attachments/assets/d1847793-76c3-4390-8ac4-d87b19226cc9" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github.com/user-attachments/assets/143ad246-862f-4c8f-bbbb-af4661b17af5" media="(prefers-color-scheme: light)" />
+    <img src="https://github.com/user-attachments/assets/143ad246-862f-4c8f-bbbb-af4661b17af5" alt="Saudação" />
+  </picture>
 
   <p>
-  Estudante de Análise e Desenvolvimento de Sistemas na FATEC Sorocaba e Desenvolvedor Fullstack
+    Estudante de Análise e Desenvolvimento de Sistemas na FATEC Sorocaba e Desenvolvedor Fullstack
   </p>
   <h1></h1>
 
@@ -16,21 +15,23 @@
 
 ###
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  </picture>
 </div>
 
 ###
