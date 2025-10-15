@@ -1,7 +1,12 @@
 
 <div align="center">
 
-  <img width="396" height="60" alt="image" src="https://github.com/user-attachments/assets/143ad246-862f-4c8f-bbbb-af4661b17af5" />
+<picture>
+  <source srcset="https://github.com/user-attachments/assets/d1847793-76c3-4390-8ac4-d87b19226cc9" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github.com/user-attachments/assets/143ad246-862f-4c8f-bbbb-af4661b17af5" media="(prefers-color-scheme: light)" />
+  <img src="https://github.com/user-attachments/assets/143ad246-862f-4c8f-bbbb-af4661b17af5" alt="Saudação" />
+</picture>
+
   <p>
   Estudante de Análise e Desenvolvimento de Sistemas na FATEC Sorocaba e Desenvolvedor Fullstack
   </p>
