@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <h1>Olá! 👋 Eu sou Vinicius</h1>
+  <img width="396" height="60" alt="image" src="https://github.com/user-attachments/assets/143ad246-862f-4c8f-bbbb-af4661b17af5" />
   <p>
   Estudante de Análise e Desenvolvimento de Sistemas na FATEC Sorocaba e Desenvolvedor Fullstack
   </p>
