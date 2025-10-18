@@ -31,7 +31,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vinist021&title=Commits,Issues,Repositories&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8"  height="90" alt="trophy graph">
+  <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vinist021&title=Commits,Issues,Repositories&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="90" alt="trophy graph">
+  </a>
 </div>
 
 ###
