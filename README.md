@@ -31,14 +31,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vinist021&title=Commits,Issues,Repositories&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="90"">
-  </a>
-</div>
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VInist021/VInist021/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VInist021/VInist021/output/pacman-contribution-graph.svg">
